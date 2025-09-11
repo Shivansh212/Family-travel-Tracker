@@ -39,4 +39,4 @@ npm start
 
 
 ## Contact
-For questions or support, contact [abhimanyustomar24@gmail.com].
+For questions or support, contact [shivansh74151@gmail.com].
